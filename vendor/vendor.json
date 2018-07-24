@@ -11,6 +11,12 @@
 			"versionExact": "v0.11.5"
 		},
 		{
+			"checksumSHA1": "3owzphdIY/TjPSzhb8hh4DKIsaA=",
+			"path": "github.com/buger/jsonparser",
+			"revision": "2cac668e8456b4284edb0715e17e2af02d3ec993",
+			"revisionTime": "2018-03-17T21:08:10Z"
+		},
+		{
 			"checksumSHA1": "jyYVyZKBHiXT9Fecb7iRUyXWwdI=",
 			"path": "github.com/newrelic/infra-integrations-sdk/args",
 			"revision": "b31bc81a228f7cb48496dd6c87815a119df35907",
