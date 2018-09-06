@@ -1,6 +1,10 @@
-# New Relic Infrastructure Integration for couchbase-plugin
+# New Relic Infrastructure Integration for Couchbase
 
 Reports status and metrics for couchbase-plugin service
+
+## Disclaimer
+
+New Relic has open-sourced this integration to enable monitoring of this technology. This integration is provided AS-IS WITHOUT WARRANTY OR SUPPORT, although you can report issues and contribute to this integration via GitHub. Support for this integration is available with an [Expert Services subscription](newrelic.com/expertservices).
 
 ## Requirements
 
