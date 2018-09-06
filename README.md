@@ -1,4 +1,4 @@
-# New Relic Infrastructure Integration for Couchbase
+# New Relic Infrastructure On-Host Integration for Couchbase
 
 Reports status and metrics for couchbase-plugin service
 
