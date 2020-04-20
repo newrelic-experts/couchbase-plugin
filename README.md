@@ -1,3 +1,5 @@
+[![Archived header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Archived.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md#archived)
+
 # New Relic Infrastructure On-Host Integration for Couchbase
 
 Reports status and metrics for couchbase-plugin service
